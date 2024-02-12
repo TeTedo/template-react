@@ -357,13 +357,7 @@ module.exports = {
 };
 ```
 
-## 8. package.json
-
-```
-
-```
-
-## 9. CI - github actions, gitlab runner
+## 8. CI - github actions, gitlab runner
 
 ### (1) .github/workflows/react-ci.yml
 
